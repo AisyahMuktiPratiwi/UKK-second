@@ -123,6 +123,66 @@
             <div class="collapse navbar-collapse" id="collapsibleNavId">
                 <ul class="navbar-nav me-auto mt-2 mt-lg-0">
                     <li class="nav-item active">
+                        <a class="nav-link"></a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link"></a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link"></a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link"></a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link"></a>
+                    </li>
+                    <form class="d-flex my-2 my-lg-0">
+
+
+                </ul>
+                <ul class="navbar-nav me-auto mt-2 mt-lg-0">
+                    <li class="nav-item active">
+                        <a class="nav-link"></a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link"></a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link"></a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link"></a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link"></a>
+                    </li>
+                    <form class="d-flex my-2 my-lg-0">
+
+
+                </ul>
+                <ul class="navbar-nav me-auto mt-2 mt-lg-0">
+                    <li class="nav-item active">
+                        <a class="nav-link"></a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link"></a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link"></a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link"></a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link"></a>
+                    </li>
+                    <form class="d-flex my-2 my-lg-0">
+
+
+                </ul>
+                <ul class="navbar-nav me-auto mt-2 mt-lg-0">
+                    <li class="nav-item active">
                         <a class="nav-link" href="/" style="color:white;font-size: 20px;">Beranda</a>
                     </li>
                     <li class="nav-item">
@@ -145,9 +205,7 @@
                     </form>
 
                 </ul>
-                <ul class="navbar-nav me-auto mt-2 mt-lg-0-">
 
-                </ul>
 
             </div>
         </div>
@@ -180,6 +238,7 @@
     <footer style="color:white;background-color
 :rgb(176, 158, 228);text-align:center"> Copyrig
         ht &copy; 2022 Purp
+
 
 
         Hotel,by Aisyah Mukti Pratiwi </footer>
