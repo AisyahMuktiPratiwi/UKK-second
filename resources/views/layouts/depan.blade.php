@@ -133,11 +133,11 @@
                     </li>
                     <li class="nav-item">
                         <a href="/login" type="button" class="btn"
-                            style="background-color:rgb(127, 78, 241);color:white;border-radius:20px;width:100px;font-size:20px;margin-left:20px;">Login</a>
+                            style="background-color:rgb(127, 78, 241);color:white;border-radius:20px;width:100px;font-size:20px;">Login</a>
                     </li>
                     <li class="nav-item">
                         <a href="/register" type="button" class="btn"
-                            style="background-color:rgb(150, 55, 214);color:white;border-radius:20px;width:100px;font-size:20px;margin-left:8%;">Sign
+                            style="background-color:rgb(150, 55, 214);color:white;border-radius:20px;width:100px;font-size:20px;">Sign
                             Up</a>
                     </li>
                     <form class="d-flex my-2 my-lg-0">
