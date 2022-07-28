@@ -34,7 +34,7 @@
 
 <body style="background-color:rgb(219, 217, 251)">
 
-    <!-- <nav class="navbar navbar-expand-lg navbar-light" style="background-color:rgb(170, 149, 228);">
+    <nav class="navbar navbar-expand-lg navbar-light" style="background-color:rgb(170, 149, 228);">
         <div class="container-fluid">
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo03"
                 aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
@@ -108,8 +108,8 @@
 
             </div>
         </div>
-    </nav> -->
-    <nav class="navbar navbar-expand-lg navbar-light" style="background-color:rgb(170, 149, 228);">
+    </nav>
+    <!-- <nav class="navbar navbar-expand-lg navbar-light" style="background-color:rgb(170, 149, 228);">
         <div class="container">
             <a class="navbar-brand" href="/"><img src="{{ asset('image/logo5.png') }}" width="10%"><span
                     style="font-family: 'Fredericka the Great', cursive;color:white;font-size:35px;margin-left:4%"><b>Hotel
@@ -149,7 +149,7 @@
 
             </div>
         </div>
-    </nav>
+    </nav> -->
     @yield('content')
     <div class="footer" style="background-color:rgb(170, 149, 228) ;margin-top:5rem">
         <div class="container" style="color:white;margin:0 auto;font-size:22px;padding-top:2rem">
