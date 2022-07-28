@@ -111,7 +111,7 @@
     </nav> -->
     <nav class="navbar navbar-expand-lg navbar-light" style="background-color:rgb(170, 149, 228);">
         <div class="container">
-            <a class="navbar-brand" href="/"><img src="{{ asset('image/logo5.png') }}" width="10%"><span
+            <a class="navbar-brand" href="/"><img src="{{ asset('image/logo5.png') }}" width="50" height="48"><span
                     style="font-family: 'Fredericka the Great', cursive;color:white;font-size:35px;margin-left:4%"><b>Hotel
                         Hebat</b></span>
             </a>
@@ -123,21 +123,21 @@
             <div class="collapse navbar-collapse" id="collapsibleNavId">
                 <ul class="navbar-nav me-auto mt-2 mt-lg-0">
                     <li class="nav-item active">
-                        <a class="nav-link" href="/" style="color:white;font-size:25px;">Home</a>
+                        <a class="nav-link" href="/" style="color:white;font-size: 20px;">Beranda</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/kamar" style="color:white;font-size:25px;">Kamar</a>
+                        <a class="nav-link" href="/kamar" style="color:white;font-size:20px;">Kamar</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/fasilitas" style="color:white;font-size:25px;">Fasilitas</a>
+                        <a class="nav-link" href="/fasilitas" style="color:white;font-size:20px;">Fasilitas</a>
                     </li>
                     <li class="nav-item">
                         <a href="/login" type="button" class="btn"
-                            style="background-color:rgb(127, 78, 241);color:white;border-radius:20px;width:100px;font-size:20px;">Login</a>
+                            style="background-color:rgb(127, 78, 241);color:white;border-radius:20px;width:100px; height:45px;">Login</a>
                     </li>
                     <li class="nav-item">
                         <a href="/register" type="button" class="btn"
-                            style="background-color:rgb(150, 55, 214);color:white;border-radius:20px;width:100px;font-size:20px;">Sign
+                            style="background-color:rgb(150, 55, 214);color:white;border-radius:20px;width:100px; height:45px;">Sign
                             Up</a>
                     </li>
                     <form class="d-flex my-2 my-lg-0">
