@@ -131,8 +131,6 @@
                     <li class="nav-item">
                         <a class="nav-link" href="/fasilitas" style="color:white;font-size:25px;">Fasilitas</a>
                     </li>
-                </ul>
-                <ul class="navbar-nav me-auto mt-2 mt-lg-0-">
                     <li class="nav-item">
                         <a href="/login" type="button" class="btn"
                             style="background-color:rgb(127, 78, 241);color:white;border-radius:20px;width:100px;font-size:20px;margin-left:20px;">Login</a>
@@ -142,10 +140,14 @@
                             style="background-color:rgb(150, 55, 214);color:white;border-radius:20px;width:100px;font-size:20px;margin-left:8%;">Sign
                             Up</a>
                     </li>
+                    <form class="d-flex my-2 my-lg-0">
+                        <a href="/"><i class="fas fa-sign-out-alt fa-2x" style="color:white;margin-left:20px "></i></a>
+                    </form>
+
                 </ul>
-                <form class="d-flex my-2 my-lg-0">
-                    <a href="/"><i class="fas fa-sign-out-alt fa-2x" style="color:white;margin-left:20px "></i></a>
-                </form>
+                <ul class="navbar-nav me-auto mt-2 mt-lg-0-">
+
+                </ul>
 
             </div>
         </div>
