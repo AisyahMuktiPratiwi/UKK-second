@@ -125,7 +125,7 @@
             <h1 style="text-align:center;"><b>APA YANG UNIK DARI HOTEL HEBAT ?</b></h1>
             <div
                 style="border-bottom: 3px dashed;width:800px;margin:0 auto;color:rgb(155, 11, 119);margin-bottom:3rem ">
-            </div>
+            </div>zzz
             <div class="col-md-4">
                 <img src="{{ asset('image/unik1.png') }}" alt="" width="200px" style="margin-left:8rem">
                 <h4 style="margin-left:10rem"><b>Serba Ungu</b></h4>

@@ -30,5 +30,5 @@
                     <i class="fas fa-sign-out-alt mr-2"></i> Log Out
                 </a>
         </li>
-        </ ul>
+    </ul>
 </nav>
