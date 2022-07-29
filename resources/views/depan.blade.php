@@ -100,8 +100,7 @@
                 <div class="row g-0">
                     <div class="col-md-6">
                         <div class="card-body">
-                            <marquee direction="right" behavior="alternate" scrollamount="3" width="150px"
-                                onmouseout="this.stop()">
+                            <marquee direction="right" behavior="alternate" scrollamount="3" width="150px">
                                 <h1 class="card-title"
                                     style="font-family: 'Quintessential', cursive; font-size:50px;margin-top:2rem;">
                                     <b>About
@@ -135,6 +134,30 @@
             </div>
 
 
+            <div class="card mb-3"
+                style="background-color:rgb(219, 217, 251);border:none;margin-top: 12rem;font-family: 'Quintessential', cursive;color:rgb(155, 11, 119);">
+                <div class="row g-0" style="padding-left:10% ;">
+
+                    <h1 style="text-align:center"><b>APA YANG UNIK DARI HOTEL HEBAT ?</b></h1>
+
+                    <div
+                        style="border-bottom: 3px dashed;width:800px;margin:0 auto;color:rgb(155, 11, 119);margin-bottom:3rem; ">
+                    </div>
+                    <div class="col-md-4">
+                        <img src="{{ asset('image/unik1.png') }}" alt="" width="200px">
+                        <h4 style="margin-left: 3rem;"><b>Serba Ungu</b></h4>
+                    </div>
+                    <div class="col-md-4">
+                        <img src="{{ asset('image/unik2.png') }}" alt="" width="200px">
+                        <h4><b>Voice Command Recognition</b></h4>
+                    </div>
+                    <div class="col-md-4">
+                        <img src="{{ asset('image/unik3.png') }}" alt="" width="200px">
+                        <h4><b>Robot Pengantar Makanan</b></h4>
+                    </div>
+                </div>
+            </div>
+
 
 
         </div>
@@ -142,29 +165,12 @@
 
 
 
-    <div class="container" style="margin-top: 12rem;font-family: 'Quintessential', cursive;color:rgb(155, 11, 119);">
-        <div class="row">
-            <h1 style="text-align:center;"><b>APA YANG UNIK DARI HOTEL HEBAT ?</b></h1>
-            <div
-                style="border-bottom: 3px dashed;width:800px;margin:0 auto;color:rgb(155, 11, 119);margin-bottom:3rem ">
-            </div>zzz
-            <div class="col-md-4">
-                <img src="{{ asset('image/unik1.png') }}" alt="" width="200px" style="margin-left:8rem">
-                <h4 style="margin-left:10rem"><b>Serba Ungu</b></h4>
-            </div>
-            <div class="col-md-4">
-                <img src="{{ asset('image/unik2.png') }}" alt="" width="200px" style="margin-left:3rem">
-                <h4><b>Voice Command Recognition</b></h4>
-            </div>
-            <div class="col-md-4">
-                <img src="{{ asset('image/unik3.png') }}" alt="" width="200px">
-                <h4><b>Robot Pengantar Makanan</b></h4>
-            </div>
-        </div>
-    </div>
+
 </body>
 
 </html>
+
+
 
 
 
