@@ -25,12 +25,53 @@
             </div>
         </div>
     </div> -->
+    <!-- <div class="content">
+        <div class="container-fluid">
+            <div class="card mb-3" style="background-color:rgb(219, 217, 251);border:none;">
+                <div class="row g-0">
+                    <img src="{{asset('image/k1.jpg')}}" alt="" style="margin-top:10rem;width:100%">
+                    <div class="col-md-6">
+                        <div class="carousel-caption"
+                            style="background-color:rgb(212, 217, 251);position:relative;width:80%;box-shadow:rgb(210, 209, 250) 2px 15px 12px;color:rgb(155, 11, 119);text-align:justify;padding-left:50px;padding-right:50px">
+                            <h1 style="font-family: 'Quintessential', cursive;">PREMIUM QUEEN</h1>
+                            <h6>MULAI DARI <b>RP.500.000</b> PER HARI</h6>
+                            <br>
+                            Kamar ini dilengkapi dengan kasur berukuran queen. Maksimum 2 tamu, dengan maksimum 2
+                            dewasa.
+                            <br> Luas kamar:16 m2
+                            <p>
+                            <ul>
+                                <li> AC</li>
+                                <li>Kamar mandi</li>
+                                <li>Setrika</li>
+                                <li>TV</li>
+                                <li>Meja Kerja</li>
+                                <li>Kedap suara</li>
+                                <li>lantai berkarpet</li>
+                            </ul>
+                            </p>
+                            <a href="/pesan" class="btn btn-outline-primary"
+                                style="background-color:blueviolet;color:white">Pesan</a>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <img src="{{asset('image/k10.jpg')}}" alt="" width="40%"
+                            style="margin-top:3rem;margin-left:8rem">
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    </div> -->
+
+
     <div class="container">
         <div class="row">
             <img src="{{asset('image/k1.jpg')}}" alt="" style="margin-top:10rem;width:100%">
             <div class="col-md-6">
                 <div class="carousel-caption"
-                    style="background-color:rgb(212, 217, 251);position:relative;width:100%;box-shadow:rgb(210, 209, 250) 2px 15px 12px;color:rgb(155, 11, 119);text-align:justify;padding-left:50px;padding-right:50px">
+                    style="background-color:rgb(212, 217, 251);position:relative;width:80%;box-shadow:rgb(210, 209, 250) 2px 15px 12px;color:rgb(155, 11, 119);text-align:justify;padding-left:50px;padding-right:50px">
                     <h1 style="font-family: 'Quintessential', cursive;">PREMIUM QUEEN</h1>
                     <h6>MULAI DARI <b>RP.500.000</b> PER HARI</h6>
                     <br>
@@ -58,7 +99,7 @@
             <img src="{{asset('image/k2.jpg')}}" alt="" style="margin-top:10rem;width:100%">
             <div class="col-md-6">
                 <div class="carousel-caption"
-                    style="background-color:rgb(212, 217, 251);position:relative;width:100%;box-shadow:rgb(210, 209, 250) 2px 15px 12px;color:rgb(155, 11, 119);text-align:justify;padding-left:50px;padding-right:50px">
+                    style="background-color:rgb(212, 217, 251);position:relative;width:80%;box-shadow:rgb(210, 209, 250) 2px 15px 12px;color:rgb(155, 11, 119);text-align:justify;padding-left:50px;padding-right:50px">
                     <h1 style="font-family: 'Quintessential', cursive;">PREMIUM QUEEN</h1>
                     <h6>MULAI DARI <b>RP.500.000</b> PER HARI</h6>
                     <br>
@@ -85,7 +126,7 @@
             <img src="{{asset('image/k6.jpg')}}" alt="" style="margin-top:10rem;width:100%">
             <div class="col-md-6">
                 <div class="carousel-caption"
-                    style="background-color:rgb(212, 217, 251);position:relative;width:100%;box-shadow:rgb(210, 209, 250) 2px 15px 12px;color:rgb(155, 11, 119);text-align:justify;padding-left:50px;padding-right:50px">
+                    style="background-color:rgb(212, 217, 251);position:relative;width:80%;box-shadow:rgb(210, 209, 250) 2px 15px 12px;color:rgb(155, 11, 119);text-align:justify;padding-left:50px;padding-right:50px">
                     <h1 style="font-family: 'Quintessential', cursive;">PREMIUM QUEEN</h1>
                     <h6>MULAI DARI <b>RP.500.000</b> PER HARI</h6>
                     <br>
@@ -112,7 +153,7 @@
             <img src="{{asset('image/k7.jpg')}}" alt="" style="margin-top:10rem;width:100%">
             <div class="col-md-6">
                 <div class="carousel-caption"
-                    style="background-color:rgb(212, 217, 251);position:relative;width:100%;box-shadow:rgb(210, 209, 250) 2px 15px 12px;color:rgb(155, 11, 119);text-align:justify;padding-left:50px;padding-right:50px">
+                    style="background-color:rgb(212, 217, 251);position:relative;width:80%;box-shadow:rgb(210, 209, 250) 2px 15px 12px;color:rgb(155, 11, 119);text-align:justify;padding-left:50px;padding-right:50px">
                     <h1 style="font-family: 'Quintessential', cursive;">PREMIUM QUEEN</h1>
                     <h6>MULAI DARI <b>RP.500.000</b> PER HARI</h6>
                     <br>
@@ -139,7 +180,7 @@
             <img src="{{asset('image/k8.jpg')}}" alt="" style="margin-top:10rem;width:100%">
             <div class="col-md-6">
                 <div class="carousel-caption"
-                    style="background-color:rgb(212, 217, 251);position:relative;width:100%;box-shadow:rgb(210, 209, 250) 2px 15px 12px;color:rgb(155, 11, 119);text-align:justify;padding-left:50px;padding-right:50px">
+                    style="background-color:rgb(212, 217, 251);position:relative;width:80%;box-shadow:rgb(210, 209, 250) 2px 15px 12px;color:rgb(155, 11, 119);text-align:justify;padding-left:50px;padding-right:50px">
                     <h1 style="font-family: 'Quintessential', cursive;">PREMIUM QUEEN</h1>
                     <h6>MULAI DARI <b>RP.500.000</b> PER HARI</h6>
                     <br>
@@ -166,7 +207,7 @@
             <img src="{{asset('image/k1.jpg')}}" alt="" style="margin-top:10rem;width:100%">
             <div class="col-md-6">
                 <div class="carousel-caption"
-                    style="background-color:rgb(212, 217, 251);position:relative;width:100%;box-shadow:rgb(210, 209, 250) 2px 15px 12px;color:rgb(155, 11, 119);text-align:justify;padding-left:50px;padding-right:50px">
+                    style="background-color:rgb(212, 217, 251);position:relative;width:80%;box-shadow:rgb(210, 209, 250) 2px 15px 12px;color:rgb(155, 11, 119);text-align:justify;padding-left:50px;padding-right:50px">
                     <h1 style="font-family: 'Quintessential', cursive;">PREMIUM QUEEN</h1>
                     <h6>MULAI DARI <b>RP.500.000</b> PER HARI</h6>
                     <br>

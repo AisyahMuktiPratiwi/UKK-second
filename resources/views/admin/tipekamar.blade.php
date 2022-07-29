@@ -10,7 +10,7 @@
 @section('content')
 <div class="card" style="color:darkviolet;box-shadow: rgb(219, 217, 251) 5px 6px 12px;">
     <div class="card-body">
-        <table id="myTable" class="table table-striped">
+        <table id="myTable" class="table table-striped table-responsive-md">
             <thead>
                 <tr>
                     <th>No</th>
@@ -23,26 +23,42 @@
             <tbody>
                 <tr>
                     <td>1</td>
-                    <td>tiwi</td>
-                    <td>uyty</td>
-                    <td>jj</td>
+                    <td>Premium Queen</td>
+                    <td>5</td>
+                    <td><img src="{{asset('image/k1.jpg')}}" alt="" width="100px"></td>
                     <td><a href="/edittipekamar" style="color:darkviolet;"><i class="fas fa-edit"></i></a><a href=""
                             style="color:darkviolet;margin-left:10px"><i class=" fas fa-trash-alt"></i></a></td>
                 </tr>
                 <tr>
-                    <td>1</td>
-                    <td>mia</td>
-                    <td>uyty</td>
-                    <td>hghgh</td>
-                    <td><a href="" style="color:darkviolet;"><i class="fas fa-edit"></i></a><a href=""
+                    <td>2</td>
+                    <td>Premium Queen</td>
+                    <td>5</td>
+                    <td><img src="{{asset('image/k1.jpg')}}" alt="" width="100px"></td>
+                    <td><a href="/edittipekamar" style="color:darkviolet;"><i class="fas fa-edit"></i></a><a href=""
                             style="color:darkviolet;margin-left:10px"><i class=" fas fa-trash-alt"></i></a></td>
                 </tr>
                 <tr>
-                    <td>1</td>
-                    <td>mama</td>
-                    <td>uyty</td>
-                    <td>hghgh</td>
-                    <td><a href="" style="color:darkviolet;"><i class="fas fa-edit"></i></a><a href=""
+                    <td>3</td>
+                    <td>Premium Queen</td>
+                    <td>5</td>
+                    <td><img src="{{asset('image/k1.jpg')}}" alt="" width="100px"></td>
+                    <td><a href="/edittipekamar" style="color:darkviolet;"><i class="fas fa-edit"></i></a><a href=""
+                            style="color:darkviolet;margin-left:10px"><i class=" fas fa-trash-alt"></i></a></td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>Premium Queen</td>
+                    <td>5</td>
+                    <td><img src="{{asset('image/k1.jpg')}}" alt="" width="100px"></td>
+                    <td><a href="/edittipekamar" style="color:darkviolet;"><i class="fas fa-edit"></i></a><a href=""
+                            style="color:darkviolet;margin-left:10px"><i class=" fas fa-trash-alt"></i></a></td>
+                </tr>
+                <tr>
+                    <td>5</td>
+                    <td>Premium Queen</td>
+                    <td>5</td>
+                    <td><img src="{{asset('image/k1.jpg')}}" alt="" width="100px"></td>
+                    <td><a href="/edittipekamar" style="color:darkviolet;"><i class="fas fa-edit"></i></a><a href=""
                             style="color:darkviolet;margin-left:10px"><i class=" fas fa-trash-alt"></i></a></td>
                 </tr>
 

@@ -10,7 +10,7 @@
 @section('content')
 <div class="card" style="color:darkviolet;box-shadow: rgb(219, 217, 251) 5px 6px 12px;">
     <div class="card-body">
-        <table id="myTable" class="table table-striped">
+        <table id="myTable" class="table table-striped table-responsive-md">
             <thead>
                 <tr>
                     <th>No</th>
@@ -23,24 +23,24 @@
             <tbody>
                 <tr>
                     <td>1</td>
-                    <td>tiwi</td>
-                    <td>uyty</td>
-                    <td>hghgh</td>
+                    <td>Meimei</td>
+                    <td>memei@gmail.com</td>
+                    <td>pelanggan</td>
 
                     <td><a href="" style="color:darkviolet;"><i class=" fas fa-trash-alt"></i></a></td>
                 </tr>
                 <tr>
-                    <td>1</td>
-                    <td>mia</td>
-                    <td>uyty</td>
-                    <td>hghgh</td>
+                    <td>2</td>
+                    <td>mail</td>
+                    <td>mail@gmail.com</td>
+                    <td>admin</td>
                     <td><a href="" style="color:darkviolet;"><i class=" fas fa-trash-alt"></i></a></td>
                 </tr>
                 <tr>
-                    <td>1</td>
-                    <td>mama</td>
-                    <td>uyty</td>
-                    <td>hghgh</td>
+                    <td>3</td>
+                    <td>susanti</td>
+                    <td>susanti@gmail.com</td>
+                    <td>pelanggan</td>
                     <td><a href="" style="color:darkviolet;"><i class=" fas fa-trash-alt"></i></a></td>
                 </tr>
 

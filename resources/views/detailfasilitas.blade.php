@@ -13,9 +13,30 @@
 <body>
     <div class="container">
         <div class="row">
+            <img src="{{asset('image/kolam.jpg')}}" alt="" style="margin-top:10rem;width:100%">
             <div class="col-md-6">
-                <img src="{{asset('image/jpg.jpg')}}" alt=""
-                    style="margin-top:10rem;width:40rem;height:25rem;position:relative;">
+                <div class="carousel-caption"
+                    style=" z-index: 1;
+        opacity: 0.9;background-color:rgb(170, 149, 280);position:relative;width:80%;box-shadow:rgb(210, 209, 250) 2px 15px 12px;color:rgb(155, 11, 119);text-align:justify;padding-left:30px;padding-right:30px">
+                    <h1 style="font-family: 'Quintessential', cursive;">Nama Fasilitas</h1>
+
+                    <br>
+                    deskripsi fasilitas,deskripsi fasilitas,deskripsi
+
+                    <br>desilitas,deskripsi fasilitas,deskripsi fasilitas,,
+
+
+                    </p>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <!-- <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <img src="{{asset('image/jpg.jpg')}}" alt="" style="margin-top:10rem;width:100%;position:relative;">
             </div>
             <div class="col-md-6">
                 <div class="carousel-caption"
@@ -31,13 +52,15 @@
 
 
         </div>
-    </div>
+    </div> -->
 
 
 </body>
 
 
 </html>
+
+
 
 
 @endsection

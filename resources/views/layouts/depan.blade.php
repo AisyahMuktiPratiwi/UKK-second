@@ -13,7 +13,7 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Fredericka+the+Great&family=Quintessential&family=Syne+Tactile&display=swap"
         rel="stylesheet">
-    <script src="{{ secure_asset('bootstrap-5.0.2-dist/js/bootstrap.min.js') }}"></script>
+    <script src="{{secure_asset('bootstrap-5.0.2-dist/js/bootstrap.min.js') }}"></script>
 
     <style>
     .navbar {
@@ -161,7 +161,7 @@
     </div>
     <footer style="color:white;background-color
 :rgb(176, 158, 228);text-align:center"> Copyrig
-        ht &copy; 2022 Purp
+        ht&copy; 2022 Purp
 
 
 

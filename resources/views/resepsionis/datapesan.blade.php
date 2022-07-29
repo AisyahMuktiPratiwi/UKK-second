@@ -10,39 +10,39 @@
 @section('content')
 <div class="card" style="color:darkviolet;box-shadow: rgb(219, 217, 251) 5px 6px 12px;">
     <div class="card-body">
-        <table id="myTable" class="table table-striped">
+        <table id="myTable" class="table table-striped table-responsive-md">
             <thead>
                 <tr>
                     <th>No</th>
                     <th>Nama Tamu</th>
                     <th>Check In</th>
                     <th>Check Out</th>
-                    <th>Aksi</th>
+
                 </tr>
             </thead>
             <tbody>
                 <tr>
                     <td>1</td>
-                    <td>tiwi</td>
-                    <td>uyty</td>
-                    <td>jj</td>
-                    <td>hjj</td>
-                </tr>
-                <tr>
-                    <td>1</td>
-                    <td>mia</td>
-                    <td>uyty</td>
-                    <td>hghgh</td>
-                    <td>hjj</td>
-                </tr>
-                <tr>
-                    <td>1</td>
-                    <td>mama</td>
-                    <td>uyty</td>
-                    <td>hghgh</td>
-                    <td>hjj</td>
+                    <td>Meimei</td>
+                    <td>15-07-22</td>
+                    <td>18-07-22</td>
+
                 </tr>
 
+                <tr>
+                    <td>2</td>
+                    <td>Susanti</td>
+                    <td>7-04-22</td>
+                    <td>10-04-22</td>
+
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>Ijat</td>
+                    <td>2-3-22</td>
+                    <td>9-3-22</td>
+
+                </tr>
             </tbody>
 
         </table>

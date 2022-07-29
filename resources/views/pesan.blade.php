@@ -20,7 +20,7 @@
 
                 <img src="{{ asset('image/hotel.jpg') }}" class="d-block w-100" alt="First slide">
                 <div class="carousel-caption">
-                    <h1
+                    <!-- <h1
                         style="margin-bottom:33%;color:rgb(209, 64, 149);font-size:65px;font-family: 'Bungee Shade', cursive;margin-left: 10%">
                         <b>
                             <marquee direction="down" behavior="slide" scrollamount="12" height="200px">WELCOME TO
@@ -30,25 +30,25 @@
                                 </marquee>
                             </span>
                         </b>
-                    </h1>
+                    </h1> -->
                 </div>
             </div>
             <div class="carousel-item">
                 <img src="{{ asset('image/resto.jpg') }}" class="d-block w-100" alt="Second slide">
                 <div class="carousel-caption">
-                    <h1
+                    <!-- <h1
                         style="margin-bottom:20%;color:rgb(232, 174, 250);font-size:80px;font-family: 'Bungee Shade', cursive;">
                         <b>HOTEL SERBA UNGU & MEWAH</b>
-                    </h1>
+                    </h1> -->
                 </div>
             </div>
             <div class="carousel-item">
                 <img src="{{ asset('image/meet.jpg') }}" class="d-block w-100" alt="Third slide">
                 <div class="carousel-caption">
-                    <h1
+                    <!-- <h1
                         style="margin-bottom:50%;color:rgb(176, 92, 233);font-size:60px;font-family: 'Bungee Shade', cursive;">
                         <b>TERDAPAT BERBAGAI MACAM FASILITAS </b>
-                    </h1>
+                    </h1> -->
                 </div>
             </div>
         </div>
