@@ -92,30 +92,52 @@
 
     <a href="/pesan" type="submit" class="btn"
         style="background-color:blueviolet;color:white;margin-left:75%;position:relative; opacity:0.4;box-shadow: 0px 8px 12px;">Pesan</a>
+    <div class="content">
+        <div class="container-fluid">
+
+            <div class="card mb-3"
+                style="height:25rem;margin-top:3rem;max-width: 100%;border:none;background-color:rgb(215, 200, 255);color:rgb(155, 11, 119);text-align:center">
+                <div class="row g-0">
+                    <div class="col-md-6">
+                        <div class="card-body">
+                            <marquee direction="right" behavior="alternate" scrollamount="3" width="150px"
+                                onmouseout="this.stop()">
+                                <h1 class="card-title"
+                                    style="font-family: 'Quintessential', cursive; font-size:50px;margin-top:2rem;">
+                                    <b>About
+                                    </b>
+                                </h1>
+                            </marquee>
+                            <div style="border-bottom: 3px dashed;width:200px;margin:0 auto;"></div>
+                            <br>
+
+                            <p class="card-text">Hotel Hebat
+                                adalah Hotel dengan
+                                layanan pilihan dengan desain yang menarik dengan tema serba ungu,dilengkapi berbagai
+                                fasilitas yang
+                                akan membuat liburan anda menjadi lebih menyenangkan dengan harga terjangkau </h5>
+
+                            </p>
+                            <p class="card-text"><small class="text-muted"><i class='fa fa-star'
+                                        style="color:blueviolet"></i><i class='fa fa-star'
+                                        style="color:blueviolet"></i><i class='fa fa-star'
+                                        style="color:blueviolet"></i><i class='fa fa-star'
+                                        style="color:blueviolet"></i><i class='fa fa-star'
+                                        style="color:blueviolet"></i></small></p>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <img src="{{asset('image/ilustrasi.png')}} " width="100%" class="img-fluid rounded-start"
+                            alt="...">
+                    </div>
+
+                </div>
+            </div>
 
 
-    <div class="about"
-        style="background-color:rgb(215, 200, 255);text-align: center; color:rgb(155, 11, 119); display: flex;height:20rem;margin-top:5rem">
 
-        <div class="col-md-6">
-            <marquee direction="right" behavior="alternate" scrollamount="3" width="150px" onmouseout="this.stop()">
-                <h1 style="font-family: 'Quintessential', cursive; font-size:50px;margin-top:2rem;">
-                    <b>About
-                    </b>
-                </h1>
-            </marquee>
-            <div style="border-bottom: 3px dashed;width:200px;margin:0 auto;"></div>
-            <h5 style="padding-top: 1rem;padding-bottom:1rem;color:rgb(114, 11, 155);padding-left:4rem;">Hotel Hebat
-                adalah Hotel dengan
-                layanan pilihan dengan desain yang menarik dengan tema serba ungu,dilengkapi berbagai fasilitas yang
-                akan membuat liburan anda menjadi lebih menyenangkan dengan harga terjangkau </h5>
-            <i class='fa fa-star'></i><i class='fa fa-star'></i><i class='fa fa-star'></i><i class='fa fa-star'></i><i
-                class='fa fa-star'></i>
+
         </div>
-        <div class="col-md-6">
-            <img src="{{asset('image/ilustrasi.png')}} " width="100%">
-        </div>
-
     </div>
 
 
@@ -143,4 +165,11 @@
 </body>
 
 </html>
+
+
+
+
+
+
+
 @endsection
